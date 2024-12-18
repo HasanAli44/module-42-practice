@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "cover": "https://i.ibb.co.com/jDx91tK/1.jpg",
+    "title": "Exploring the Future of Web Development",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co.com/2Mm42x9/boy1.png",
+    "posted_date": "2024-12-01",
+    "reading_time": 5,
+    "hashtag": ["#WebDevelopment", "#Frontend", "#Technology"]
+  },
+  {
+    "id": "2",
+    "cover": "https://i.ibb.co.com/rZLjsPk/2.png",
+    "title": "Mastering Tailwind CSS for Modern UI",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co.com/LpKjbGW/boy2.jpg",
+    "posted_date": "2024-11-28",
+    "reading_time": 7,
+    "hashtag": ["#TailwindCSS", "#UI", "#Design"]
+  },
+  {
+    "id": "3",
+    "cover": "https://i.ibb.co.com/Y78bR98/3.png",
+    "title": "10 JavaScript Tricks You Should Know",
+    "author": "Alex Brown",
+    "author_img": "https://i.ibb.co.com/RynWSJ6/girl1.jpg",
+    "posted_date": "2024-12-10",
+    "reading_time": 8,
+    "hashtag": ["#JavaScript", "#Programming", "#Tips"]
+  },
+  {
+    "id": "4",
+    "cover": "https://i.ibb.co.com/dM094rL/4.jpg",
+    "title": "The Ultimate Guide to Bootstrap",
+    "author": "Emily Davis",
+    "author_img": "https://i.ibb.co.com/9VR4dPr/girl2.jpg",
+    "posted_date": "2024-11-15",
+    "reading_time": 6,
+    "hashtag": ["#Bootstrap", "#Framework", "#Frontend"]
+  }
+]
